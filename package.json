@@ -1,0 +1,11 @@
+{
+  "name": "string-calculator",
+  "version": "1.0.0",
+  "description": "A simple string calculator implemented in JavaScript using TDD.",
+  "main": "src/stringCalculator.js",
+  "scripts": {
+    "test": "node tests/stringCalculator.test.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
